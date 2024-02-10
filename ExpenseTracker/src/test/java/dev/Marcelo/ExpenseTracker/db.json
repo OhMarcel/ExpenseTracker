@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "userId": 0,
+      "username": "timmy_cole",
+      "password": "password123",
+      "email": "timmecole@gmail.com",
+      "expenses": [
+        {
+          "date": "2024-02-02",
+          "amount": 100.00,
+          "typeOfExpense": "shopping"
+        },
+        {
+          "date": "2023-11-23",
+          "amount": 58.00,
+          "typeOfExpense": "entertainment"
+        },
+        {
+          "date": "2023-12-22",
+          "amount": 254.60,
+          "typeOfExpense": "groceries"
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "username": "jenna_bakes",
+      "password": "123password",
+      "email": "JennaBacking@gmail.com",
+      "expenses": [
+        {
+          "date": "2023-12-02",
+          "amount": 332.00,
+          "typeOfExpense": "shopping"
+        },
+        {
+          "date": "2023-10-20",
+          "amount": 33.00,
+          "typeOfExpense": "entertainment"
+        },
+        {
+          "date": "2024-1-22",
+          "amount": 194.60,
+          "typeOfExpense": "groceries"
+        }
+      ]
+    }
+  ]
+}
